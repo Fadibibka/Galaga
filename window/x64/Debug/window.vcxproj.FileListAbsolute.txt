@@ -1,0 +1,6 @@
+C:\Users\fadik\source\repos\курсач\window\x64\Debug\window.vcxproj.AssemblyReference.cache
+C:\Users\fadik\source\repos\курсач\window\x64\Debug\window.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\fadik\source\repos\курсач\window\x64\Debug\window.MyForm.resources
+C:\Users\fadik\source\repos\курсач\window\x64\Debug\window.vcxproj.GenerateResource.cache
+C:\Users\fadik\source\repos\курсач\window\x64\Debug\window.vcxproj.CopyComplete
+C:\Users\fadik\source\repos\курсач\x64\Debug\Player.cpp

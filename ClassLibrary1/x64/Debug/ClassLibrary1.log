@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ClassLibrary1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Game.cpp
+C:\Users\fadik\source\repos\курсач\ClassLibrary1\Game.cpp(1,1): warning C4005: __CLR_VER: изменение макроопределения
+C:\Users\fadik\source\repos\курсач\ClassLibrary1\Game.cpp(1,1): message : "__CLR_VER" ранее объявлен в командной строке
+C:\Users\fadik\source\repos\курсач\ClassLibrary1\Game.cpp(1,1): warning C4651: параметр "/D__CLR_VER=40809166" указан для предкомпилированного заголовка, но не для текущей компиляции
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ClassLibrary1.vcxproj -> C:\Users\fadik\source\repos\курсач\x64\Debug\dll.dll

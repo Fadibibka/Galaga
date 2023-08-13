@@ -1,0 +1,4 @@
+C:\Users\fadik\source\repos\курсач\window\Debug\window.vcxproj.AssemblyReference.cache
+C:\Users\fadik\source\repos\курсач\window\Debug\window.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\fadik\source\repos\курсач\window\Debug\window.MyForm.resources
+C:\Users\fadik\source\repos\курсач\window\Debug\window.vcxproj.GenerateResource.cache

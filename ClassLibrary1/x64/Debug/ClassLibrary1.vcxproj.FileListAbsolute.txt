@@ -1,0 +1,2 @@
+C:\Users\fadik\source\repos\курсач\ClassLibrary1\x64\Debug\ClassLibrary1.vcxproj.AssemblyReference.cache
+C:\Users\fadik\source\repos\курсач\x64\Debug\Player.cpp
